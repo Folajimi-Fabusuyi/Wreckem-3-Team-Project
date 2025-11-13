@@ -1,23 +1,187 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Corporate Dashboard</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/corporate.css">
-    </head>
-    <body>
-        <header>
-            <ul id="nav-bar">
-                <li><a href="#">About Us</a></li>
-                <li><a href="listings.html">Listings</a></li>
-                <li><a href="index.html">Logo</a></li>
-                <li><a href="company-dashboard.html">Companies</a></li>
-                <li><a href="#">Login/Signup</a></li>
-            </ul>
-        </header>
-    
-    </body>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <title>TURBO-TALENT - Applicant Overview</title>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop">
+      <aside class="sidebar" role="navigation" aria-label="Main navigation">
+        <div class="sidebar-background"></div>
+        <img class="sidebar-logo-image" src="img/rectangle-22.png" alt="Company Logo" />
+        <nav class="sidebar-nav">
+          <button class="sidebar-nav-item" aria-label="Inbox">
+            <span class="sidebar-nav-text">INBOX</span>
+          </button>
+          <button class="sidebar-nav-item" aria-label="Feed">
+            <span class="sidebar-nav-text">FEED</span>
+          </button>
+          <button class="sidebar-nav-item" aria-label="Stats">
+            <span class="sidebar-nav-text">STATS</span>
+          </button>
+          <button class="sidebar-nav-item" aria-label="Help">
+            <span class="sidebar-nav-text">HELP</span>
+          </button>
+        </nav>
+        <div class="sidebar-pagination" role="group" aria-label="Navigation pagination">
+          <button class="sidebar-pagination-button sidebar-pagination-prev" aria-label="Previous page">
+            <img class="sidebar-pagination-icon" src="img/polygon-1.svg" alt="" />
+          </button>
+          <button
+            class="sidebar-pagination-button sidebar-pagination-current"
+            aria-label="Current page"
+            aria-current="page"
+          >
+            <span class="sidebar-pagination-dot"></span>
+          </button>
+          <button class="sidebar-pagination-button sidebar-pagination-next" aria-label="Next page">
+            <img class="sidebar-pagination-icon" src="img/polygon-4.svg" alt="" />
+          </button>
+        </div>
+      </aside>
+      <header class="header" role="banner">
+        <div class="header-background"></div>
+        <div class="header-logo">
+          <img class="header-logo-icon" src="img/rectangle-4.svg" alt="TURBO-TALENT Logo" />
+          <div class="header-logo-icon-overlay">
+            <img class="header-logo-icon-vector" src="img/vector-2.svg" alt="" />
+          </div>
+        </div>
+        <h1 class="header-title">TURBO-TALENT</h1>
+        <div class="header-auth">
+          <button class="header-auth-button" aria-label="Sign-up or Login">
+            <span class="header-auth-text">Sign-up or Login</span>
+          </button>
+        </div>
+      </header>
+      <main class="main-content" role="main">
+        <section class="search-section" aria-label="Search">
+          <div class="search-container">
+            <label for="main-search" class="visually-hidden">Search</label>
+            <input type="search" id="main-search" class="search-input" placeholder="Search..." aria-label="Search" />
+            <button class="search-button" type="submit" aria-label="Submit search">
+              <img class="search-icon" src="img/material-symbols-search.svg" alt="" />
+            </button>
+          </div>
+        </section>
+        <section class="applicant-overview-section" aria-labelledby="applicant-overview-heading">
+          <div class="applicant-overview-container">
+            <h2 id="applicant-overview-heading" class="applicant-overview-heading">APPLICANT OVERVIEW</h2>
+          </div>
+          <div class="applicant-overview-content">
+            <article class="applicant-profile" aria-label="Applicant profile">
+              <div class="applicant-profile-image-container">
+                <img class="applicant-profile-image" src="img/rectangle-21.png" alt="Applicant profile picture" />
+              </div>
+              <button class="applicant-profile-nav applicant-profile-nav-prev" aria-label="Previous applicant">
+                <img class="applicant-profile-nav-icon" src="img/polygon-5.svg" alt="" />
+              </button>
+              <button class="applicant-profile-nav applicant-profile-nav-next" aria-label="Next applicant">
+                <img class="applicant-profile-nav-icon" src="img/polygon-2.svg" alt="" />
+              </button>
+            </article>
+            <article class="applicant-details" aria-label="Applicant details">
+              <div class="applicant-details-container">
+                <header class="applicant-details-header">
+                  <div class="applicant-details-name-container">
+                    <h3 class="applicant-details-name">NAME: LOREM IPSUM</h3>
+                  </div>
+                  <div class="applicant-details-skills-container">
+                    <h3 class="applicant-details-skills-heading">SKILLS</h3>
+                    <button
+                      class="applicant-details-skills-toggle"
+                      aria-label="Toggle skills dropdown"
+                      aria-expanded="false"
+                    >
+                      <span class="applicant-details-skills-toggle-icon">
+                        <span class="applicant-details-skills-toggle-icon-inner">
+                          <img class="applicant-details-skills-toggle-icon-image" src="img/image.svg" alt="" />
+                          <img class="applicant-details-skills-toggle-icon-chevron" src="img/vector.svg" alt="" />
+                        </span>
+                      </span>
+                    </button>
+                  </div>
+                </header>
+                <div class="applicant-details-content">
+                  <div class="applicant-details-skills-list">
+                    <span class="applicant-details-skill-tag">JavaScript</span>
+                    <span class="applicant-details-skill-tag">React</span>
+                    <span class="applicant-details-skill-tag">CSS</span>
+                    <span class="applicant-details-skill-tag">HTML</span>
+                    <span class="applicant-details-skill-tag">Node.js</span>
+                    <span class="applicant-details-skill-tag">TypeScript</span>
+                    <span class="applicant-details-skill-tag">Git</span>
+                    <span class="applicant-details-skill-tag">Responsive Design</span>
+                    <span class="applicant-details-skill-tag">API Integration</span>
+                    <span class="applicant-details-skill-tag">Testing</span>
+                    <span class="applicant-details-skill-tag">Agile</span>
+                    <span class="applicant-details-skill-tag">UI/UX</span>
+                    <span class="applicant-details-skill-tag">Performance Optimization</span>
+                    <span class="applicant-details-skill-tag">Accessibility</span>
+                    <span class="applicant-details-skill-tag">Webpack</span>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+        <section class="company-dash-section" aria-labelledby="company-dash-heading">
+          <div class="company-dash-container">
+            <h2 id="company-dash-heading" class="company-dash-heading">COMPANY DASH</h2>
+          </div>
+          <div class="company-dash-content">
+            <article class="company-profile" aria-label="Company profile">
+              <img class="company-profile-image" src="img/image-1.png" alt="Company profile picture" />
+            </article>
+            <article class="task-overview" aria-label="Task overview">
+              <div class="task-overview-container">
+                <header class="task-overview-header">
+                  <h3 class="task-overview-heading">TASK OVERVIEW</h3>
+                </header>
+                <div class="task-overview-content">
+                  <ul class="task-overview-list">
+                    <li class="task-overview-item">
+                      <span class="task-overview-item-tag">Design Review</span>
+                    </li>
+                    <li class="task-overview-item">
+                      <span class="task-overview-item-tag">Code Implementation</span>
+                    </li>
+                    <li class="task-overview-item">
+                      <span class="task-overview-item-tag">Testing</span>
+                    </li>
+                    <li class="task-overview-item">
+                      <span class="task-overview-item-tag">Deployment</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+        <aside class="stats-widget" aria-labelledby="stats-widget-heading">
+          <div class="stats-widget-container">
+            <img class="stats-widget-image" src="img/image-2.png" alt="Statistics visualization" />
+            <button class="stats-widget-expand" aria-label="Expand statistics">
+              <img class="stats-widget-expand-icon" src="img/arrow-forward-ios.png" alt="" />
+            </button>
+            <div class="stats-widget-content">
+              <h3 id="stats-widget-heading" class="visually-hidden">Job Statistics</h3>
+              <p class="stats-widget-text">
+                SOFTWARE ENGINEER: 60-100k<br /><br />PROJECT MANAGER: 110-150k<br /><br />HELP DESK: 30-50k<br /><br />VACANT:
+              </p>
+            </div>
+          </div>
+        </aside>
+        <aside class="post-position-widget" aria-labelledby="post-position-heading">
+          <div class="post-position-container">
+            <h3 id="post-position-heading" class="post-position-heading">POST NEW POSITION</h3>
+          </div>
+        </aside>
+      </main>
+    </div>
+  </body>
 </html>
