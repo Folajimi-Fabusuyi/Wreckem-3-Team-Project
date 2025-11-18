@@ -20,10 +20,12 @@ implements. (Refer to BMC document)
 - GitHub Pages
 ## Individual Contributions Sample
 ### Adam Castro
-- TBD
+- Listings Page
 ### Daniel Fabusuyi
-- TBD
+- Homepage
+- Login Page
+- Sign-up Page
 ### Isaac East
-- TBD
+- Company Dashboard
 ### Julian Parra
-- TBD
+- Student Dashboard
