@@ -1,16 +1,16 @@
 body, html {
     padding: 0px;
     margin: 0px;
-    background-color: #312F2F; 
-    color: #ffffff;
+    background-color: #F5F5F5; 
+    color: #000;
 }
 
 #nav-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #312F2F;
-    border-bottom: black dashed 2px;
+    background-color: black;
+    border-bottom: white dashed 2px;
     display: flex;
     justify-content: center;
     position: fixed;
@@ -51,7 +51,7 @@ body, html {
     flex-flow: row;
     margin: 0px;
     margin-top: 75px;
-    background-color: #333333;
+    background-color: #f4d7d7;
     padding: 20px;
     width: 97vw;
     justify-content: center;
@@ -73,9 +73,9 @@ body, html {
     margin-top: 30px;
     margin-bottom: 30px;
     width: 400px;
-    background-color: #00171F;
+    background-color: #87c5f2;
     box-shadow: 0px 0px 10px #84DCCF;
-    color: white;
+    color: black;
     /* border: white dashed 1px; */
     border-radius: 0px 12px 12px 0px;
     padding: 0px 50px 0px 50px;
@@ -103,7 +103,7 @@ body, html {
     flex-direction: column;
     box-shadow: 0px 0px 10px #CC2936;
     padding: 20px 100px;
-    background: #00171F;
+    background: #87c5f2;
     align-items: center;
     border-radius: 50px;
 }
@@ -121,8 +121,8 @@ body, html {
 footer {
     display: flex;
     margin-top: 10px;
-    border-top: black dashed 2px;
-    background: #333;
+    border-top: white dashed 2px;
+    background: black;
     color: white;
     justify-content: center;
     padding: 15px 0;
@@ -135,7 +135,7 @@ footer {
     gap: 50px;
     margin: 0px;
     margin-top: 75px;
-    background-color: #333333;
+    background-color: #f4d7d7;
     padding: 20px;
     width: 94vw;
     justify-content: center;
@@ -153,7 +153,7 @@ footer {
     height: auto;
     width: 200px;
     padding: 35px;
-    background: #00171F;
+    background: #87c5f2;
     box-shadow: 0px 0px 10px #7E78D2;
     border-radius: 12px;
 }
@@ -173,7 +173,7 @@ footer {
 }
 
 #buttons button {
-    background-color: 333333;
+    background-color: black;
     color: white;
     border-radius: 12px;
     width: 100px;
