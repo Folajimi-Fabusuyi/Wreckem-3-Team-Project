@@ -1,0 +1,1217 @@
+body {
+    background-color: white;
+}
+
+.div1 {
+    background-color: rgb(135, 197, 242);
+    height: 100px;
+    width: 73%;
+    margin-top: 15px;
+    margin-left: 1%;
+    border-radius: 15px;
+    text-align: right;
+    line-height: 1.2;
+    padding-right: 5px;
+}
+
+.div2 {
+    background-color: rgb(244, 215, 215);
+    height: 150px;
+    width: 75%;
+    border-radius: 15px;
+    margin-top: 75px;
+    margin-left: 1%;
+}
+
+.div3 {
+    background-color: rgb(200, 194, 194);
+    height: 560px;
+    width: 1%;
+    border-radius: 15px;
+    position: absolute;
+    top: 240px;
+    left: 75%;
+}
+
+.div4 {
+    background-color: rgb(200, 194, 194);
+    height: 725px;
+    width: 22%;
+    border-radius: 15px;
+    position: absolute;
+    left: 77%;
+    top: 75px;
+}
+
+.div5 {
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    vertical-align: center;
+    font-size: 30px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.div10 {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    height: 60px;
+    width: 40%;
+    text-align: left;
+    font-size: 45px;
+    position: absolute;
+    top: 5px;
+    left: 8%;
+}
+
+.div6 {
+    background-color: rgb(140, 135, 135);
+    height: 75px;
+    width: 1%;
+    border-radius: 15px;
+    position: absolute;
+    top: 400px;
+    left: 75%;
+}
+
+.div7 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 45px;
+    width: 17%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 35px;
+    top: 170px;
+    left: 58%;
+}
+
+.div8 {
+    background-color: white;
+    color: lightgray;
+    height: 45px;
+    width: 55%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    position: absolute;
+    font-size: 25px;
+    top: 170px;
+    left: 2%;
+}
+
+.div9 {
+    background-color: rgb(135, 197, 242);
+    height: 6%;
+    width: 6%;
+    border-radius: 15px;
+    position: absolute;
+    top: 5px;
+    left: 1%;
+}
+
+.div11 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 25px;
+    width: 8%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 310px;
+    left: 65%;
+}
+
+.div12 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 25px;
+    width: 8%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 425px;
+    left: 65%;
+}
+
+.div13 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 25px;
+    width: 8%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 540px;
+    left: 65%;
+}
+
+.div14 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 25px;
+    width: 8%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 655px;
+    left: 65%;
+}
+
+.div15 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 25px;
+    width: 8%;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 770px;
+    left: 65%;
+}
+
+.div16 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 30px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    top: 15px;
+    left: 90%;
+}
+
+.div17 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 30px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    position: absolute;
+    top: 15px;
+    left: 77%;
+}
+
+.div18 {
+    background-color: white;
+    color: lightgray;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    text-align: left;
+    vertical-align: center;
+    position: absolute;
+    font-size: 25px;
+    top: 110px;
+    left: 78%;
+}
+
+.div19 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 750px;
+    left: 78%;
+}
+
+.div26 {
+    background-color: rgb(135, 197, 242);
+    height: 65px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 750px;
+    left: 87%;
+}
+
+.div20 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 170px;
+    left: 78%;
+}
+
+.div27 {
+    background-color: rgb(135, 197, 242);
+    height: 65px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 170px;
+    left: 87%;
+}
+
+.div21 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 165px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 220px;
+    left: 78%;
+}
+
+.div32 {
+    background-color: rgb(237, 166, 166);
+    height: 185px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 220px;
+    left: 87%;
+}
+
+.div22 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 390px;
+    left: 78%;
+}
+
+.div28 {
+    background-color: rgb(135, 197, 242);
+    height: 65px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 390px;
+    left: 87%;
+}
+
+.div23 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 440px;
+    left: 78%;
+}
+
+.div31 {
+    background-color: rgb(237, 166, 166);
+    height: 65px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 440px;
+    left: 87%;
+}
+
+.div24 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 45px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 490px;
+    left: 78%;
+}
+
+.div29 {
+    background-color: rgb(135, 197, 242);
+    height: 65px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 490px;
+    left: 87%;
+}
+
+.div25 {
+    background-color: rgb(237, 166, 166);
+    color: black;
+    height: 205px;
+    width: 20%;
+    border-radius: 15px;
+    vertical-align: center;
+    text-align: left;
+    text-indent: 35px;
+    position: absolute;
+    font-size: 20px;
+    top: 540px;
+    left: 78%;
+}
+
+.div30 {
+    background-color: rgb(237, 166, 166);
+    height: 225px;
+    width: 11%;
+    border-radius: 15px;
+    position: absolute;
+    top: 540px;
+    left: 87%;
+}
+
+h1 {
+    font-size: 35px;
+    color: black;
+    position: absolute;
+    top: 55px;
+    left: 3%;
+}
+
+h2 {
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    width: 72%;
+    top: 100px;
+    left: 3%;
+}
+
+h3 {
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 1px;
+    left: 75px;
+}
+
+.div48 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 25px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 250px;
+    left: 4%;
+}
+
+.div49 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    top: 275px;
+    left: 4%;
+}
+
+.div50 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    top: 290px;
+    left: 4%;
+}
+
+.div33 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 25px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 365px;
+    left: 4%;
+}
+
+.div37 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    top: 390px;
+    left: 4%;
+}
+
+.div38 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    top: 405px;
+    left: 4%;
+}
+
+.div39 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 25px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 480px;
+    left: 4%;
+}
+
+.div40 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    top: 505px;
+    left: 4%;
+}
+
+.div41 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    top: 520px;
+    left: 4%;
+}
+
+.div42 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 25px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 595px;
+    left: 4%;
+}
+
+.div43 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    top: 620px;
+    left: 4%;
+}
+
+.div44 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    top: 635px;
+    left: 4%;
+}
+
+.div45 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 25px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    top: 710px;
+    left: 4%;
+}
+
+.div46 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    top: 735px;
+    left: 4%;
+}
+
+.div47 {
+    background-color: rgb(135, 197, 242);
+    color: black;
+    height: 20px;
+    width: 11%;
+    border-radius: 15px;
+    text-align: left;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    top: 750px;
+    left: 4%;
+}
+
+.div34 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 280px;
+    left: 15%;
+}
+
+.div51 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 280px;
+    left: 35%;
+}
+
+.div52 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 280px;
+    left: 52%;
+}
+
+.div35 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 310px;
+    left: 28%;
+}
+
+.div53 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 310px;
+    left: 48%;
+}
+
+.div54 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 310px;
+    left: 15%;
+}
+
+.div36 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 250px;
+    left: 15%;
+}
+
+.div55 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 250px;
+    left: 32%;
+}
+
+.div56 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 250px;
+    left: 52%;
+}
+
+.div57 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 395px;
+    left: 15%;
+}
+
+.div58 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 395px;
+    left: 32%;
+}
+
+.div59 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 18%;
+    border-radius: 15px;
+    position: absolute;
+    top: 395px;
+    left: 46%;
+}
+
+.div60 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 425px;
+    left: 15%;
+}
+
+.div61 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 425px;
+    left: 28%;
+}
+
+.div62 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 425px;
+    left: 48%;
+}
+
+.div63 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 365px;
+    left: 15%;
+}
+
+.div64 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 365px;
+    left: 35%;
+}
+
+.div65 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 365px;
+    left: 52%;
+}
+
+.div66 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 510px;
+    left: 15%;
+}
+
+.div67 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 510px;
+    left: 35%;
+}
+
+.div68 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 510px;
+    left: 52%;
+}
+
+.div69 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 540px;
+    left: 15%;
+}
+
+.div70 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 540px;
+    left: 28%;
+}
+
+.div71 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 540px;
+    left: 48%;
+}
+
+.div72 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 480px;
+    left: 15%;
+}
+
+.div73 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 480px;
+    left: 32%;
+}
+
+.div74 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 18%;
+    border-radius: 15px;
+    position: absolute;
+    top: 480px;
+    left: 46%;
+}
+
+.div75 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 625px;
+    left: 15%;
+}
+
+.div76 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 625px;
+    left: 35%;
+}
+
+.div77 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 625px;
+    left: 52%;
+}
+
+.div78 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 655px;
+    left: 15%;
+}
+
+.div79 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 655px;
+    left: 28%;
+}
+
+.div80 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 655px;
+    left: 48%;
+}
+
+.div81 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 595px;
+    left: 15%;
+}
+
+.div82 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 595px;
+    left: 32%;
+}
+
+.div83 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 18%;
+    border-radius: 15px;
+    position: absolute;
+    top: 595px;
+    left: 46%;
+}
+
+.div84 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 740px;
+    left: 15%;
+}
+
+.div85 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 740px;
+    left: 35%;
+}
+
+.div86 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 740px;
+    left: 52%;
+}
+
+.div87 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 770px;
+    left: 15%;
+}
+
+.div88 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 19%;
+    border-radius: 15px;
+    position: absolute;
+    top: 770px;
+    left: 28%;
+}
+
+.div89 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 770px;
+    left: 48%;
+}
+
+.div90 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 16%;
+    border-radius: 15px;
+    position: absolute;
+    top: 710px;
+    left: 15%;
+}
+
+.div91 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 12%;
+    border-radius: 15px;
+    position: absolute;
+    top: 710px;
+    left: 32%;
+}
+
+.div92 {
+    background-color: rgb(70, 164, 232);
+    height: 25px;
+    width: 18%;
+    border-radius: 15px;
+    position: absolute;
+    top: 710px;
+    left: 46%;
+}
+
+.div93 {
+    background-color: rgb(200, 194, 194);
+    color: rgb(65, 63, 63);
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    text-align: right;
+    position: absolute;
+    top: 80px;
+    right: 3%;
+}
+
+.div94 {
+    background-color: white;
+    color: lightgray;
+    position: absolute;
+    height: 40px;
+    font-size: 25px;
+    width: 18%;
+    border-radius: 15px;
+    top: 250px;
+    left: 79%;
+}
+
+.div96 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 295px;
+    left: 79%;
+}
+
+.div97 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 295px;
+    left: 89%;
+}
+
+.div98 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 330px;
+    left: 79%;
+}
+
+.div99 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 330px;
+    left: 89%;
+}
+
+.div95 {
+    background-color: white;
+    color: lightgray;
+    position: absolute;
+    height: 40px;
+    font-size: 25px;
+    width: 18%;
+    border-radius: 15px;
+    top: 570px;
+    left: 79%;
+}
+
+.div100 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 615px;
+    left: 79%;
+}
+
+.div101 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 615px;
+    left: 89%;
+}
+
+.div102 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 650px;
+    left: 79%;
+}
+
+.div103 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 650px;
+    left: 89%;
+}
+
+.div104 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 685px;
+    left: 79%;
+}
+
+.div105 {
+    background-color: rgb(70, 164, 232);
+    position: absolute;
+    height: 30px;
+    width: 8.5%;
+    border-radius: 15px;
+    top: 685px;
+    left: 89%;
+}
