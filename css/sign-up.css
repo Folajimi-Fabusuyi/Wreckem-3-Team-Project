@@ -1,0 +1,70 @@
+html {
+    justify-items: center;
+    background-color: #F5F5F5; 
+}
+
+body {
+    padding-top: 100px;
+}
+
+.center-item {
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-items: center;
+    text-align: center;
+    border: black dashed 2px;
+
+    background-color: #87c5f2;
+}
+
+hr {
+    border-color: black;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#password-input, #email-input  {
+    border-radius: 5px;
+    border: black solid 1px;
+    margin: 5px;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+}
+
+#sign-up-button {
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+    background-color: #f4d7d7;
+    border: #f4d7d7 solid 2px;
+}
+
+#sign-up-button:hover {
+    background-color: black;
+    border: black solid 2px;
+    color: white;
+}
+
+a:hover {
+    color: #7E78D2;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+#radio-fieldset {
+    border: black dashed 2px;
+    background-color: #7E78D2;
+    margin: 0px;
+    margin-bottom: 25px;
+}
+
+h4 {
+    margin: 0px;
+}
+
