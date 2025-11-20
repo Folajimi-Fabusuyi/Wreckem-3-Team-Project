@@ -1049,7 +1049,7 @@ body {
   top: 88px;
   left: 15px;
   width: 371px;
-  height: 921px;
+  height: 730px;
 }
 
 .sidebar-background {
@@ -1074,9 +1074,9 @@ body {
 
 .sidebar-nav {
   position: absolute;
-  top: 269px;
-  left: 10px;
-  width: 351px;
+  top: 210px;
+  left: 20px;
+  width: 330px;
   display: flex;
   flex-direction: column;
   gap: 11px;
@@ -1084,7 +1084,7 @@ body {
 
 .sidebar-nav-item {
   width: 100%;
-  height: 124px;
+  height: 110px;
   background-color: #c2e1f7;
   border-radius: 10px;
   box-shadow: 0px 4px 4px #00000040;
@@ -1384,8 +1384,8 @@ body {
   position: absolute;
   top: 14px;
   left: 29px;
-  width: 1006px;
-  height: 462px;
+  width: 1080px;
+  height: 300px;
 }
 
 .applicant-overview-container {
@@ -1393,7 +1393,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 113px;
+  height: 100px;
   background-color: #eda6a6;
   border-radius: 10px;
   box-shadow: 0px 4px 4px #00000040;
@@ -1401,7 +1401,7 @@ body {
 
 .applicant-overview-heading {
   position: absolute;
-  top: 25px;
+  top: 18px;
   left: 0;
   width: 100%;
   height: 71px;
@@ -1420,7 +1420,7 @@ body {
 
 .applicant-overview-content {
   position: absolute;
-  top: 127px;
+  top: 113px;
   left: 0;
   width: 100%;
   height: 335px;
@@ -1493,7 +1493,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #f3d6d6;
+  background-color: #eda6a6;
   border-radius: 10px;
   box-shadow: 0px 4px 4px #00000040;
 }
@@ -1938,3 +1938,4 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
+
