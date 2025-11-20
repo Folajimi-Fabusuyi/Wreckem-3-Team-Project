@@ -5,7 +5,7 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: gray;
+    background-color: #87c5f2;
     overflow-x: hidden;
     padding-top: 20px;
     display: flex;
@@ -54,7 +54,7 @@
     border-radius: 8px;
     height: 30rem;
     width: 100%;
-    background-color: red;
+    background-color: #f4d7d7;
     padding: 8px;
     display: flex;
     flex-direction: column;
@@ -69,13 +69,13 @@
 
 .tag {
     padding: 5px;
-    background-color: blue;
+    background-color: #84DCCF;
     margin: 5px;
     border-radius: 8px;
 }
 
 .tag-grey {
-    background-color: grey;
+    background-color: #F5F5F5;
 }
 
 .cards h1,
@@ -106,4 +106,5 @@
     display: flex;
     padding: 5px 10px;
     gap: 8px;
+    margin-left: 600px;
 }
