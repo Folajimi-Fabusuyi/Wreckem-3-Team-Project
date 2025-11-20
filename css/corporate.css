@@ -1065,10 +1065,10 @@ body {
 
 .sidebar-logo-image {
   position: absolute;
-  top: 14px;
-  left: 6px;
-  width: 359px;
-  height: 252px;
+  top: 10px;
+  left: 20px;
+  width: 330px;
+  height: 190px;
   object-fit: cover;
   border-radius: 12px;
 }
@@ -1124,7 +1124,7 @@ body {
 
 .sidebar-pagination {
   position: absolute;
-  bottom: 46px;
+  bottom: -2px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -1163,8 +1163,8 @@ body {
 }
 
 .sidebar-pagination-current {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   background-color: #c2e1f7;
   border-radius: 25px;
   border: 1px solid #b9b9b9;
@@ -1385,7 +1385,7 @@ body {
   position: absolute;
   top: 14px;
   left: 100px;
-  width: 1080px;
+  width: 1006px;
   height: 300px;
 }
 
