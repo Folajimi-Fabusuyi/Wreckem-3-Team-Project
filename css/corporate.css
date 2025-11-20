@@ -1548,7 +1548,7 @@ body {
 .applicant-details-skills-heading {
   position: absolute;
   top: 50%;
-  left: 10px;
+  left: 20px;
   transform: translateY(-50%);
   width: 100px;
   height: 32px;
@@ -1567,13 +1567,13 @@ body {
 .applicant-details-skills-toggle {
   position: absolute;
   top: 50%;
-  right: 10px;
+  right: -10px;
   transform: translateY(-50%);
   width: 30px;
   height: 30px;
   background-color: #eda6a6;
   border-radius: 15px;
-  border: 1px solid #b9b9b9;
+  border: 1px solid #827d7d;
   cursor: pointer;
   padding: 0;
   transition: background-color 0.2s ease, transform 0.1s ease;
@@ -1803,7 +1803,7 @@ body {
 .stats-widget {
   position: absolute;
   top: 460px;
-  right: 15px;
+  right: 30px;
   width: 359px;
   height: 300px;
 }
