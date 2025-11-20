@@ -6,8 +6,7 @@
 - Isaac East - IsaacEast
 - Julian Parra - jconnorpara
 ## Project Description
-Brief description of the Connect platform and what this project
-implements. (Refer to BMC document)
+This project was intended to be an introduction to designing a product using a human centered design process. We interviewed students and found out what was wrong or disliked about the current job application process. The website is inteded to be a proof of concept to show what an ideal job application and listing website could look like.
 ## Pages Implemented
 1. Landing Page (index.html)
 2. Student Dashboard (student-dashboard.html)
